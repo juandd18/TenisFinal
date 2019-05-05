@@ -41,4 +41,6 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-Follow the instructions in `TennisTrainning.ipynb` to get started with the project
+Follow the instructions in `TennisTrainning.ipynb` to get started with the project also you can just run some cell to test the final model.
+
+as you will see in the ipynb the code load pretrained models for trainning or test the model, in the final case you should restart the kernel before use it because you will find some strange issues with unity environments
